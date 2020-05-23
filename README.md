@@ -1,2 +1,2 @@
 # git-sample
-writen for testing purpose
+writen for testing purpose.
